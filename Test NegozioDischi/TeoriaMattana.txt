@@ -1,0 +1,20 @@
+Mattana Martina 22/10/2021 
+Parte teorica
+
+1) Ho 2 tabelle Tabella1 e Tabella2. Se scrivo Tabella1 left join Tabella2 che risultati produce?
+La risposta è la b) Tutti i valori presenti in Tabella1 e tutti quelli in comune tra le 2 tabelle
+
+2) L’associazione “molti a molti” tra 2 tabelle come si traduce nel database?
+Nel Database l'associazione molti a molti si traduce in una terza tabella che contiene le chiavi delle altre due tabelle 
+definite come Foreign key e, come Primary Key, invece l'unione delle due chiavi (PK) delle tabelle "generatrici"
+
+3) L’istruzione UPDATE è un comando di tipo:
+La risposta è la b) Update è un Data Manipulation Language (DML) perché si occupa della
+manipolazione dei dati, ovvero di aggiornare dati esistenti in una tabella
+
+4) La funzione "SUM(attributo)" restituisce:
+La risposta è la b) La somma dei valori posseduti dall'attributo
+NB: Se questi valori sono numeri.
+
+5) È possibile scrivere una condizione del tipo “where Id= null”?
+b) No, l'espressione corretta sarebbe Where Condizione is null.
